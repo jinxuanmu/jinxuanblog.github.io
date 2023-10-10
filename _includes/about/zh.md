@@ -1,35 +1,30 @@
-Hey，我是黄玄（a.k.a. Hux, _@huxpro_），一个略懂计算机科学与艺术的斜杆不动青年，自诩是一个[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)数字媒体艺术系与 RIT 计算机科学系（师从 [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/) 专攻编程语言）杂交出来的[黑客与画家](https://book.douban.com/subject/6021440/)。
+Hi, 我是慕金轩（a.k.a 慕大轩）。懂点产品，也会点marketing。
 
-现为 <del>Facebook</del> Meta 签约软件工程师，就职于开源技术<del>网红</del>团队 [React](https://beta.reactjs.org/community/meet-the-team#react-core)，曾参与 [Hermes JavaScript 引擎](https://hermesengine.dev/)，[ReasonML](https://reasonml.github.io/) (现 [ReScript](https://rescript-lang.org/))，以及 [Reality Labs](https://tech.fb.com/ar-vr/) 某保密项目等。在国内期间，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
+国内期间，做过非主流圣地 [QQ空间](https://qzone.qq.com/) 的产品经理。那些年你们给好友送的生日礼物，不厌其烦发表的一个又一个签到, 种的[花藤](https://baike.baidu.com/item/%E8%8A%B1%E8%97%A4/5889794?noadapt=1&fromtitle=qq%E8%8A%B1%E8%97%A4&fromid=4452064)，发表说说使用的配图，都是我曾有幸服务过的产品。此外还主导过QQ空间大大小小的运营活动。除夕夜你们在互联网上玩的不亦乐乎，我在电脑前忙的也不亦乐乎。
 
+做过 [腾讯动漫](https://ac.qq.com/) 的品牌经理，主攻整合营销。我曾捧着二次元少男少女们喜爱的狐妖小红娘等一系列国漫角色在[2018年浙江卫视春晚](https://www.bilibili.com/video/BV1GW411J7t6/)的舞台上完成了一次AR跨年， 也见证了真诚又热情的粉丝们在全国三大漫展和CJ上和我们的coser小姐姐们合影留念。工作之余，我和[腾讯](https://www.tencent.com/en-us/)的志愿者们一起策展了一次 [2016TedxTencent](https://www.ted.com/tedx/events/17545)
+邀请了不同行业大咖和腾讯的同学们一起探索和洞见。
 
-目前的物理活动范围主要在美帝纽约与硅谷，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[B站](https://space.bilibili.com/43271611)、[Instagram](https://www.instagram.com/huxpro/)、[推特](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro) 等。
+国内工作10年，拿着所有的积蓄去了美国读MBA，这一决定使我曾一度在破产的边缘的徘徊。好在足够幸运，毕业后还是磕磕绊绊的找到了工作。现在加州湾区一家Startup继续做产品经理。
 
-##### 演讲与分享
+没有什么太大的梦想，能和一群聪明，善良且有趣的人一起做出个让人喜爱的产品能让我感到喜悦，策划一次有激情又富有创意的marketing campaign 也能让我成就感满满。想多赚些钱，拥有选择的能力。可以不再为钱卖命，可以有底气说不。想做一个身体强壮精神健康的普通人，想过点平静的小日子。躲进不大不小但整洁温暖的房子里，外面下着大雪，屋里烧着壁炉，窝在厚实的沙发里，喝点小酒，吃个过油肉拌面，来串烤肉和烤腰子；有空了想再精进下自己吉他的技艺，能再学个钢琴和萨克斯当然更好了：无聊了可以去潜水，去滑雪，去冲浪，去旅行，用单反拍好看的照片。
 
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
+但即使再享受一个人逍遥自在的生活，也无论是社牛还是社恐，I人还是E人，每个人或早或晚总归需要找到一个和世界连接的方式，相互影响，最后组成了我们这个世界。而现在，我想尝试通过这个blog的方式和这个世界连接，让我们互相了解。所以：
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+如果你也对互联网产品，运营和marketing感兴趣，想要交流和讨论；
+
+如果你也在互联网行业工作，有产品，运营和marketing相关的问题；
+
+如果你想要了解中国用户拓展中国市场；
+
+如果你想要了解美国MBA申请流程，好奇美国MBA文化，或者犹豫是否要出国读MBA；
+
+如果你想要了解美国tech行业;
+
+如果你也爱喝酒；
+
+如果你也想要练习乐器；
+
+……
+
+以上问题都欢迎email我，让我们一起交流分享，连接彼此。
