@@ -8,13 +8,13 @@ Beyond my daily work, I had the privilege of volunteering as a marketing special
 
 Fortunately, In 2021, I got a Full-time MBA offer and moved to NYC to start my student life. It is a really impressive journey. I have met many excellent professors and made nice and talented friends from various countries around the world. Despite the huge academic and financial pressures over these two years, it has been challenging yet enriching.
 
-I graduated in May 2023 which is called the most challenging job market for graduates due to the covid. Luck was on my side once again. After six months of job hunting and sending out hundreds of resumes, I finally landed a job two months after graduation, and now I work as a PM at a startup company located in the Bay area.
+I graduated in May 2023 which is called the most challenging job market for graduates due to the covid impact. Luck was on my side once again. After six months of job hunting and sending out hundreds of resumes, I finally landed a job two months after graduation, and now I work as a PM at a startup company located in the Bay area.
 
 Working with talented individuals to create valuable products excites me. Planning passionate and creative marketing campaigns also brings me fulfillment. I like drinking. I imagine relaxing by a fireplace on snowy days with a drink. I desire more time to practice guitar and restart learning boxing. I also want to dive, ski, surf, and travel to capture beautiful moments with a camera. 
 
 I believe that regardless of whether you're introverted or extroverted, whether you're an 'I' or an 'E' in the MBTI, everyone ultimately needs to find a way to connect with the world. This blog serves as my means of connection with the world. Here, I'll share my thoughts and insights about work and life. It would be my honor and joy if every visitor to my blog could gain some value from it.
 
-Therefore:
+So,
 
 * If you have questions about products, operations, marketing, and strategy;
 
