@@ -9,7 +9,7 @@ catalog: true
 tags:
     - Blog
     - AI
-    - Communication skills
+    - Reflections
 
     
 ---
