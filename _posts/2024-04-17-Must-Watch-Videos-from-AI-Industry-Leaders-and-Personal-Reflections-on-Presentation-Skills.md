@@ -17,7 +17,7 @@ AI has been a hot topic for a while now. However, what I feel more is the blind 
 
 I'm definitely thrilled about AI personally, but alongside that excitement, I also find myself exercising more caution and conservatism at this stage, which doesn't match the prevailing sentiment. I'm not resistant or fearful of AI.  I just lean towards seeking a more efficient way to get first-hand knowledge about AI. You can register accounts on various AI platforms to get hands-on experience, attend Stanford's open courses, or learn AI systematically on GitHub. Also, listening to speeches and interviews from industry leaders in AI can provide valuable insights. **I believe that gaining a solid understanding of AI is essential before deciding how best to utilize it to deliver value to users or enhance my efficiency.**
 
-Now, I want to share three videos from the AI industry leaders： NVIDIA CEO Jesane Huang, AMD CEO Lisa Su, and YC China founder Qi Lu.
+Now, I want to share three videos from the AI industry leaders： NVIDIA CEO Jensen Huang, AMD CEO Lisa Su, and YC China founder Qi Lu.
 
 
 * [The interview video of Jensen Huang at Stanford](https://www.youtube.com/watch?v=lXLBTBBil2U&list=PL31thWorYZukp2N0XBIozL1mnA76D-oAo&index=1)
