@@ -31,7 +31,7 @@ My motivation for doing this is to practice the ability to understand the nature
 Now, I'd like to share some reflections based on my one-year experience at a startup. Maybe when I look back on these ideas after a few months or years, I'll think they were naive. No worries, it's just part of the growth process.
 
 
-# 1. Core belief: the foundation of success.
+# 1. Core belief: the foundation of success
 
 Early in my career, I didn't pay much attention to concepts like mission and vision. I saw them as mere buzzwords, useful for storytelling, PR, or attracting investors rather than driving real business. My focus was solely on product and marketing However, my perspective has evolved in recent years.
 
@@ -44,14 +44,14 @@ Defining the core value is also crucial for determining what not to do. Both com
 Once you've identified your core value, commit to it for one year, two years, three years... As long as you persist and remain resilient, you’ll eventually see a good return. **And as for wealth, it should be seen as a bonus or by-product of doing the right thing.**
 
 
-# 2. During the Stage from 0 to 1, the "Business Model Canvas" is essential.
+# 2. During the Stage from 0 to 1, the "Business Model Canvas" is essential
 
 Actually, using quotation marks around "Business Model Canvas" isn’t to highlight the significance of this model; rather, I want to highlight the specific approach to thinking. The Business Model Canvas, like other frameworks we learn in business or marketing courses—such as SMART, PESTLE, or Porter’s Five Forces—represents a method of systematic thinking. Merely memorizing these models serves little purpose.   
 
 Each element of the Business Model Canvas encourages logical and comprehensive thinking about business like users, value propositions, key activities, key stakeholders, costs, and revenues. **The primary goal of using the Business Model Canvas is to emphasize the thought process rather than just filling it out.** When you’ve carefully considered each element of the canvas, you’ll likely have answered the critical questions about your business. At that point, you can set it aside, having internalized its insights.
 
 
-# 3. The strategy should match the business.
+# 3. The strategy should match the business
 
 Perhaps due to my work in the tech industry and my current location in the Bay Area, I’ve noticed that many people who venture into entrepreneurship or join startups come from big tech companies. However, the business models in their new ventures often differ significantly from those of their previous employers.
 
@@ -62,7 +62,7 @@ However, for startups that integrate technology but also rely heavily on a combi
 **Therefore, it is essential to avoid the trap of conventional thinking and to respect objective facts and basic rules.** Each business requires a tailored approach that aligns strategy with its unique needs and circumstances.
 
 
-# 4. Vibe matters.
+# 4. Vibe matters
 
 In a startup, the team might be small, but its quality should be exceptionally high, often even higher than that in big tech companies. Talented individuals attract other talented individuals, so it's crucial for startups to recruit "real adults".
 
@@ -87,7 +87,7 @@ The final point I'd like to address under this topic is culture. It's essential 
 In essence, your internal culture should reflect and support the value you aim to provide externally.
 
 
-# 5. Focus and execute your core responsibilities.
+# 5. Focus and execute your core responsibilities
 
 In a startup, with limited resources, it's crucial to focus all resources, including both financial and human resources, on a single, unified goal. 
 
@@ -104,7 +104,7 @@ Maintaining this focus is challenging but crucial. Losing balance leads to ineff
 The key to startup success lies in creating a well-orchestrated team where each member excels in their specific role, all working towards the common goal.
 
 
-# 6. Everyone should be "full stack" in a startup.
+# 6. Everyone should be "full stack" in a startup
 
 In the dynamic environment of a startup, roles often need to be fluid and multifaceted. This is why being "full stack" - capable of handling multiple aspects of the business - is crucial.
 
