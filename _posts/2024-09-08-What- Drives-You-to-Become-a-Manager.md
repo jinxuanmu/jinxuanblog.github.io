@@ -11,7 +11,7 @@ tags:
     - Management
     - Founder Mode
     
--------
+---
 
 
 This week, a blog by Paul Graham on the concept of Founder Mode vs. Manager Mode has been making waves. I’ve read it several times, and while Paul Graham mentioned that the idea of Founder Mode is still relatively unfamiliar to many, I strongly agree with its core message, especially when it comes to startups.
@@ -43,11 +43,6 @@ I'm not here to narrowly argue that my perspective is the only correct one. Inst
 Lastly, I’d like to share a quote from Spider-Man with all managers or potential managers, whether you’re the Head, Director, VP, or C-level: "With great power comes great responsibility."
 
 ![](https://p.ipic.vip/940ahs.jpg)
- 
-
-
-
-
 
 
 
